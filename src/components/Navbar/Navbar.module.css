@@ -1,0 +1,10 @@
+.logo {
+  width: 100px;
+  height: 60px;
+}
+.navbar {
+  display: flex;
+}
+.link {
+  color: #fff;
+}
